@@ -1,0 +1,10 @@
+.build/
+minesweeper
+
+.cache/
+compile_commands.json
+
+.vscode/
+.idea/
+*.swp
+*~
